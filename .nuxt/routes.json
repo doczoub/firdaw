@@ -1,0 +1,121 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_6d6667a6"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_4ea8e7e0"
+  },
+  {
+    "name": "blog-one",
+    "path": "/blog-one",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\blog-one.vue",
+    "chunkName": "pages/blog-one",
+    "_name": "_6e822134"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_1c960899"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\categories\\\\index.vue",
+    "chunkName": "pages/categories/index",
+    "_name": "_7968220d"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout",
+    "_name": "_7bfeff3f"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_0bd16437"
+  },
+  {
+    "name": "diction-three",
+    "path": "/diction-three",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\diction-three.vue",
+    "chunkName": "pages/diction-three",
+    "_name": "_1806500c"
+  },
+  {
+    "name": "diction-two",
+    "path": "/diction-two",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\diction-two.vue",
+    "chunkName": "pages/diction-two",
+    "_name": "_3c2c62b0"
+  },
+  {
+    "name": "gallery-one",
+    "path": "/gallery-one",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\gallery-one.vue",
+    "chunkName": "pages/gallery-one",
+    "_name": "_552326fc"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_059eb6c0"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "_name": "_6254445d"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_0adbe35e"
+  },
+  {
+    "name": "latest-products-Index",
+    "path": "/latest-products/Index",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\latest-products\\\\Index.vue",
+    "chunkName": "pages/latest-products/Index",
+    "_name": "_50045841"
+  },
+  {
+    "name": "categories-id",
+    "path": "/categories/:id",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\categories\\\\_id.vue",
+    "chunkName": "pages/categories/_id",
+    "_name": "_74c143b5"
+  },
+  {
+    "name": "latest-products-id",
+    "path": "/latest-products/:id?",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\latest-products\\\\_id.vue",
+    "chunkName": "pages/latest-products/_id",
+    "_name": "_a33641ee"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\1\\\\firdaw\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3bf713a9"
+  }
+]
