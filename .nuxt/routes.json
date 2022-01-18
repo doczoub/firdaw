@@ -1,0 +1,110 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\admin.vue",
+    "chunkName": "pages/admin"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details"
+  },
+  {
+    "name": "blog-one",
+    "path": "/blog-one",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\blog-one.vue",
+    "chunkName": "pages/blog-one"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\categories\\\\index.vue",
+    "chunkName": "pages/categories/index"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "diction-three",
+    "path": "/diction-three",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\diction-three.vue",
+    "chunkName": "pages/diction-three"
+  },
+  {
+    "name": "diction-two",
+    "path": "/diction-two",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\diction-two.vue",
+    "chunkName": "pages/diction-two"
+  },
+  {
+    "name": "gallery-one",
+    "path": "/gallery-one",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\gallery-one.vue",
+    "chunkName": "pages/gallery-one"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\products.vue",
+    "chunkName": "pages/products"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "latest-products-Index",
+    "path": "/latest-products/Index",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\latest-products\\\\Index.vue",
+    "chunkName": "pages/latest-products/Index"
+  },
+  {
+    "name": "categories-sous_category-sousCategory",
+    "path": "/categories/sous_category/:sousCategory?",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\categories\\\\sous_category\\\\_sousCategory.vue",
+    "chunkName": "pages/categories/sous_category/_sousCategory"
+  },
+  {
+    "name": "categories-id",
+    "path": "/categories/:id",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\categories\\\\_id.vue",
+    "chunkName": "pages/categories/_id"
+  },
+  {
+    "name": "latest-products-id",
+    "path": "/latest-products/:id?",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\latest-products\\\\_id.vue",
+    "chunkName": "pages/latest-products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Mohamed AMADOU\\\\Documents\\\\firdaw-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
